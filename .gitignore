@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.local
+
+# Build output
+backend/target/
+frontend/dist/
+frontend/node_modules/
+
+# IDE / tooling
+.idea/
+*.iml
+.vscode/
+.claude/
+.github/java-upgrade/
+
+# OS
+.DS_Store
+Thumbs.db
